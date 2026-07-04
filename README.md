@@ -1,0 +1,2 @@
+# DATA-SCIENCE-103
+This is a Binomial Regression Model Classifier on Customer Churn Prediction for a Twin Towers Mall: A Nairobi based Retail Franchise
