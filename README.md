@@ -27,7 +27,7 @@ A Binomial Logistic Regression is a Powerful classification tool used in advance
 
 ## DATA SOURCE.
 The data was obtained from a secondary source. In this case Kaggle.
-The Link to the actual data source is: https://E-Commerce Order Risk Classification Dataset kagggle.com
+The Link to the actual data source is: https://www.kaggle.com/datasets/emirhanakku/e-commerce-order-risk-classification-dataset
 
 
 
