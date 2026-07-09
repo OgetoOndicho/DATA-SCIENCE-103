@@ -9,8 +9,9 @@ This project utilizes Binomial Regression Model as Classifier to help analyze da
 
 
 ## METHODOLOGY.
-The data was cleaned and formatted for consistency across the entire set. Patterns and distributions were checked for appropriately.
-The target variables were then defined, and properly checked for to ensure the end result truly reflects the Stakeholders demands. For exammple: 'Is Returned' for Products returned by customers and 'Is Fraud' for any fraudlent or suspicious transactions that may have been made.
+- The data was cleaned and formatted for consistency across the entire set. Patterns and distributions were checked for appropriately.
+- The target variables were then defined, and properly checked for to ensure the end result truly reflects the Stakeholders demands. For exammple: 'Is Returned' for Products returned by customers and 'Is Fraud' for any fraudlent or suspicious transactions that may have been made.
+- The Models built for Fraud detection and Customer Product Return rate were then evaluated to determine if they were really fit for the classification utility.
 
 
 ## RESULTS AND FINDINGS.
