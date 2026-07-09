@@ -1,5 +1,7 @@
 # DATA-SCIENCE-103
-This is a Binomial Regression Model Classifier on Customer Churn Prediction for a Twin Towers Mall: A Nairobi based Retail Franchise
+This project utilizes Binomial Regression Model as Classifier to help analyze data at Twin Towers Mall: A Nairobi based Retail Franchise so as to:
+- Detect and predict Customer Product Returns rate
+- Fraudulent transactions on Customer Churn Prediction. 
 
 ## OBJECTIVES.
 1. Product Return Prediction: To Predict If Yes or Not that a Customer will Return the Product back after initial purchase.
