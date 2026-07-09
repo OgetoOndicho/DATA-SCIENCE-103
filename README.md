@@ -2,24 +2,28 @@
 This is a Binomial Regression Model Classifier on Customer Churn Prediction for a Twin Towers Mall: A Nairobi based Retail Franchise
 
 ## OBJECTIVES.
-1. To investigate
-2. To investigate
-3. To investigate
-4. To investigte
-5. To investigate
+1. Product Return Prediction: To Predict If Yes or Not that a Customer will Return the Product back after initial purchase.
+2. Fraud Detection Prediction: To Identify and predict fraudlent Transactions made at the Retail Mall.
 
 
 ## METHODOLOGY.
+The data was cleaned and formatted for consistency across the entire set. Patterns and distributions were checked for appropriately.
+The target variables were then defined, and properly checked for to ensure the end result truly reflects the Stakeholders demands. For exammple: 'Is Returned' for Products returned by customers and 'Is Fraud' for any fraudlent or suspicious transactions that may have been made.
 
 
 ## RESULTS AND FINDINGS.
+1. Out of the 120000 distinct product orders made at Twin Towers Mall, 3263 of them were returned.
+2. Out of the 12000 transactions made at Twin Towers Mall, 3475 were identified to be suspicious in this case fraudlent.
 
 
 ## CONCLUSION.
+A Binomial Logistic Regression is a Powerful classification tool used in advanced Data Science and Machine Learning Spectrums
 
 
 ## TOOLS USED.
-
+- JupyterNotebooks
 
 ## DATA SOURCE.
+The data was obtained from Kaggle: : [E-Commerce Order Risk Classification Dataset (kaggle.com)]
+
 
