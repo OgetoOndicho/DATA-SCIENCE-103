@@ -20,7 +20,7 @@ This project utilizes Binomial Regression Model as Classifier to help analyze tr
 
 
 ## CONCLUSION.
-A Binomial Logistic Regression is a Powerful classification tool used in advanced Data Science and Machine Learning Spectrums
+A Binomial Logistic Regression is a Powerful classification tool used in the advanced Data Science and Machine Learning spectrum.
 
 
 ## TOOLS USED.
