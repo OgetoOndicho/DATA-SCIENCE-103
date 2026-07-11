@@ -1,6 +1,6 @@
 # DATA-SCIENCE-103
-This project utilizes Binomial Regression Model as Classifier to help analyze data at Twin Towers Mall: A Nairobi based Retail Franchise so as to:
-- Detect and predict Customer Product Returns rate
+This project utilizes Binomial Regression Model as Classifier to help analyze transaction data at Twin Towers Mall: A Nairobi based Retail Franchise so as to:
+- Detect and predict Customer Product Returns rate of customers.
 - Fraudulent transactions on Customer Churn Prediction. 
 
 ## OBJECTIVES.
